@@ -17,18 +17,18 @@
 ```bash
 .
 ├── _config.yml						# 博客主要配置文件
-├── ImageProcess.py				# 修剪图片调用
-├── tool.py								# 修剪图片脚本
+├── ImageProcess.py				        # 修剪图片调用
+├── tool.py			                        # 修剪图片脚本
 ├── node_modules					# NPM包
 ├── min_photos 						# 相册缩略图
-├── photos								# 原图
+├── photos					        # 原图
 ├── package.json					
 ├── package-lock.json
-├── scaffolds							# 模版文件夹
-├── source								# 文章存放
-├── themes								# 主题文件夹
-│   └── yilia							# 主题
-│       ├── _config.yml		# 主题主要配置文件
+├── scaffolds						# 模版文件夹
+├── source						# 文章存放
+├── themes						# 主题文件夹
+│   └── yilia						# 主题
+│       ├── _config.yml	  # 主题主要配置文件
 │       └──...
 └── README.md
 ```
