@@ -125,8 +125,8 @@
           var data = res.list[j].arr;
           var liTmpl = "";
           for (var i = 0, len = data.link.length; i < len; i++) {
-            var minSrc = "https://pic.vovz.top/min_photos/" + data.link[i];
-            var src = "https://pic.vovz.top/photos/" + data.link[i];
+            var minSrc = "https://img-date.oss-cn-hangzhou.aliyuncs.com/min_photos/" + data.link[i];
+            var src = "https://img-date.oss-cn-hangzhou.aliyuncs.com/photos/" + data.link[i];
             var type = data.type[i];
             var target = src + (type === "video" ? ".mp4" : ".jpg");
             src += "";

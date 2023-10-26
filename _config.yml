@@ -4,16 +4,16 @@
 
 # Site
 title: 阿亮的博客
-subtitle: "奋力向上，茁壮成长"
-description: "皇家学院前端小学生"
-keywords: "前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,html,css,css3,用户体验"
+subtitle: "胆小认生，不易相处"
+description: "咸鱼"
+keywords: "咸鱼"
 author: aliang
 language: zh
 email: zclwanan@outlook.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.vovz.top
+url: https://zheng.buzz
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
